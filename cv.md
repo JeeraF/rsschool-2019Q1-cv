@@ -1,8 +1,8 @@
-##Romanchuck Ivan
+## Romanchuck Ivan
 
-###Junior Developer
+### Junior Developer
 
-Analytical mind, quick learning skills, conscientiousness, determination, ability to work efficiently both individually and in a team, experience of participation in programming contests, willingness to learn new technologies, develop and work on interesting and complex projects.
+*Analytical mind, quick learning skills, conscientiousness, determination, ability to work efficiently both individually and in a team, experience of participation in programming contests, willingness to learn new technologies, develop and work on interesting and complex projects.*
 
 ### Skills:
 
@@ -27,11 +27,11 @@ There is experience in the development of information systems and systems automa
 *	Business Studio
 *	Photoshop
 
-English: Pre-Intermediate.
-Education: Belarusian State University of Informatics and Radioelectronics, Faculty of Engineering and Economics, Information Systems and Technologies (in economics), 3rd year.
-Hobbies: Volleyball, basketball, photography, audio engineering. 
+**English:** Pre-Intermediate.
+**Education:** Belarusian State University of Informatics and Radioelectronics, Faculty of Engineering and Economics, Information Systems and Technologies (in economics), 3rd year.
+**Hobbies:** Volleyball, basketball, photography, audio engineering. 
 
->Contacts: 
+>**Contacts:** 
 
 >City: Minsk
 
