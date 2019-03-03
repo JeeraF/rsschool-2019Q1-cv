@@ -16,7 +16,7 @@
 
 ### Experience:
 
-There is experience in the development of information systems and systems automation in various industries (in the framework of course projects). There are advanced skills in sound editing and experience as a sound engineer, took part in various IT conferences.
+*There is experience in the development of information systems and systems automation in various industries (in the framework of course projects). There are advanced skills in sound editing and experience as a sound engineer, took part in various IT conferences.*
 
 ### Employed technologies and tools:
 
@@ -28,10 +28,12 @@ There is experience in the development of information systems and systems automa
 *	Photoshop
 
 **English:** Pre-Intermediate.
-**Education:** Belarusian State University of Informatics and Radioelectronics, Faculty of Engineering and Economics, Information Systems and Technologies (in economics), 3rd year.
-**Hobbies:** Volleyball, basketball, photography, audio engineering. 
 
->**Contacts:** 
+**Education:** Belarusian State University of Informatics and Radioelectronics, Faculty of Engineering and Economics, Information Systems and Technologies (in economics), 3rd year.
+
+**Hobbies:** *Volleyball, basketball, photography, audio engineering.* 
+
+**Contacts:** 
 
 >City: Minsk
 
